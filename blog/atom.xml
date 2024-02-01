@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vistastaking.github.io/docs/blog</id>
+    <id>https://docs.vistastaking.com/blog</id>
     <title>Vista Staking Blog</title>
     <updated>2024-02-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vistastaking.github.io/docs/blog"/>
+    <link rel="alternate" href="https://docs.vistastaking.com/blog"/>
     <subtitle>Vista Staking Blog</subtitle>
-    <icon>https://vistastaking.github.io/docs/img/favicon.ico</icon>
+    <icon>https://docs.vistastaking.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to Vista!]]></title>
-        <id>https://vistastaking.github.io/docs/blog/welcome</id>
-        <link href="https://vistastaking.github.io/docs/blog/welcome"/>
+        <id>https://docs.vistastaking.com/blog/welcome</id>
+        <link href="https://docs.vistastaking.com/blog/welcome"/>
         <updated>2024-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Coming soon]]></summary>
         <content type="html"><![CDATA[<p>Coming soon</p>]]></content>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvista_docs=self.webpackChunkvista_docs||[]).push([[701],{9748:s=>{s.exports=JSON.parse('{"label":"staking","permalink":"/docs/blog/tags/staking","allTagsPath":"/docs/blog/tags","count":1,"unlisted":false}')}}]);

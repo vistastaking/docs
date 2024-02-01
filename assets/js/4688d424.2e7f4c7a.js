@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvista_docs=self.webpackChunkvista_docs||[]).push([[77],{6326:e=>{e.exports=JSON.parse('{"label":"ethereum","permalink":"/blog/tags/ethereum","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
